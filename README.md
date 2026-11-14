@@ -1,0 +1,2 @@
+# opensec
+Biblioteca para Python
